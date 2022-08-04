@@ -215,7 +215,12 @@
             <artifactId>spring-cloud-openfeign-core</artifactId>
             <version>2.2.10.RELEASE</version>
         </dependency>
-
+        
+		<dependency>
+			<groupId>net.minidev</groupId>
+			<artifactId>json-smart</artifactId>
+			<version>2.3.1</version>
+		</dependency>
     </dependencies>
 
     <build>
