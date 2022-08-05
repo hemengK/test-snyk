@@ -34,7 +34,7 @@
         <spring-cloud-openfeign-core.version>2.2.10.RELEASE</spring-cloud-openfeign-core.version>
         <jakarta.el.version>3.0.4</jakarta.el.version>
         <springframework.k8s.version>1.1.7.RELEASE</springframework.k8s.version>
-        <mybatis.spring.boot.version>2.1.4</mybatis.spring.boot.version>
+        <mybatis.spring.boot.version>2.2.2</mybatis.spring.boot.version>
         <io.springfox.version>3.0.0</io.springfox.version>
         <org.apache.cxf.version>3.4.2</org.apache.cxf.version>
         <swagger-bootstrap-ui-version>1.9.6</swagger-bootstrap-ui-version>
