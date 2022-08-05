@@ -58,7 +58,7 @@
         <dingtalk-version>1.0.2-SNAPSHOT</dingtalk-version>
         <xxl-job-core-version>2.3.14</xxl-job-core-version>
         <abi-base-foundation-version>1.2.1</abi-base-foundation-version>
-        <commons-beanutils.version>1.7.0</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <abi-cloud-people-user-api.version>1.0-SNAPSHOT</abi-cloud-people-user-api.version>
         <abi-cloud-people-user-common.version>1.0-SNAPSHOT</abi-cloud-people-user-common.version>
         <abi-cloud-ipeople-common.version>1.0-SNAPSHOT</abi-cloud-ipeople-common.version>
