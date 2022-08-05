@@ -39,7 +39,7 @@
         <org.apache.cxf.version>3.4.2</org.apache.cxf.version>
         <swagger-bootstrap-ui-version>1.9.6</swagger-bootstrap-ui-version>
         <commons-httpclient-version>3.1</commons-httpclient-version>
-        <mariadb-java-client-version>2.7.1</mariadb-java-client-version>
+        <mariadb-java-client-version>2.7.6</mariadb-java-client-version>
         <commons-logging-version>1.2</commons-logging-version>
         <commons-discovery-version>20040218.194635</commons-discovery-version>
         <groovy-all-version>3.0.7</groovy-all-version>
