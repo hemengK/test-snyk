@@ -78,6 +78,12 @@
             <artifactId>jackson-core</artifactId>
             <version>2.13.2</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.yaml</groupId>
+            <artifactId>snakeyaml</artifactId>
+            <version>1.31</version>
+        </dependency>
     </dependencies>
 
     <distributionManagement>
