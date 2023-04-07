@@ -44,7 +44,7 @@
         <commons-discovery-version>20040218.194635</commons-discovery-version>
         <groovy-all-version>3.0.7</groovy-all-version>
         <velocity-engine-core-version>2.3</velocity-engine-core-version>
-        <mybatis-plus-boot-starter-version>3.4.1</mybatis-plus-boot-starter-version>
+        <mybatis-plus-boot-starter-version>3.5.3.1</mybatis-plus-boot-starter-version>
         <mybatis-plus-generator-version>3.4.1</mybatis-plus-generator-version>
         <lombok-version>1.18.16</lombok-version>
         <junit-version>4.13</junit-version>
